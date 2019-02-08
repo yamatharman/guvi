@@ -1,6 +1,6 @@
-c=0
-a=int(input(""))
-while(a>0):
-  a=a//10
-  c=c+1
-print(c)
+b=0
+c=int(input(""))
+while(c>0):
+  c=c//10
+  b=b+1
+print(b)
